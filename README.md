@@ -11,7 +11,9 @@ Pequenos projetos utilizando a linguagem java para o aprendizado de padrões de 
 
 <h3>Testes:</h3>
 
-- **TDD - testes automatizados com JUnit.**
+- **TDD - Test Driven Development.**
+  
+- **JUnit:** framework open-source para testes automatizados
   
 - **Selenium:** trabalhando com Page Objects, formulários e testes de telas com AJAX.
   
